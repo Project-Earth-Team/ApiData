@@ -1,0 +1,55 @@
+{
+  "id": "b6dd1cb9-cd05-4a90-ba32-7b18246dd5f1",
+  "item": {
+    "name": "wooden_shovel",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 2,
+    "blockDamage": 2,
+    "health": 528,
+    "blockMetadata": {
+      "health": 528,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "Build",
+      "mobDamage": 2,
+      "blockDamage": 2,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "shovel",
+      "maxHealth": 528
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "wooden tools",
+      "experience": 0,
+      "order": 269,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": {
+    "heatPerSecond": 35,
+    "burnTime": 20
+  },
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Equipment"
+}

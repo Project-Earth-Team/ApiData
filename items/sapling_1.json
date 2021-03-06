@@ -1,0 +1,55 @@
+{
+  "id": "c0284797-233c-64c5-13b5-b821922ae84a",
+  "item": {
+    "name": "sapling",
+    "aux": 1,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 1,
+    "blockMetadata": {
+      "health": 1,
+      "efficiencyCategory": "plants"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 1
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "plants",
+      "experience": 0,
+      "order": 2007,
+      "behavior": "None",
+      "biome": "Taiga"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": {
+    "heatPerSecond": 25,
+    "burnTime": 8
+  },
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 4,
+  "experiencePoints": {
+    "tappable": 4
+  },
+  "category": "Nature"
+}

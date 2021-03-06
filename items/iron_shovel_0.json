@@ -1,0 +1,52 @@
+{
+  "id": "7c116cfd-5d87-4d1f-b27c-25b6e1399033",
+  "item": {
+    "name": "iron_shovel",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 4,
+    "blockDamage": 8,
+    "health": 1004,
+    "blockMetadata": {
+      "health": 1004,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "Build",
+      "mobDamage": 4,
+      "blockDamage": 8,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "shovel",
+      "maxHealth": 1004
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "iron tools",
+      "experience": 0,
+      "order": 256,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

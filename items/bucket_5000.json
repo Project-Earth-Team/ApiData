@@ -1,0 +1,57 @@
+{
+  "id": "a26f1d8c-df36-6afd-bee6-bfa7642487fa",
+  "item": {
+    "name": "bucket",
+    "aux": 5000,
+    "type": "Block",
+    "useType": "InteractAndBuild",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "InteractAndBuild",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "manufactured items",
+      "experience": 0,
+      "order": 7325,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.bucket.lava"
+      },
+      "defaultSound": "journal.select.bucket.lava"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 30,
+  "experiencePoints": {
+    "tappable": 30
+  },
+  "category": "Items"
+}

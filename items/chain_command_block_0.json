@@ -1,0 +1,46 @@
+{
+  "id": "f8a5d11e-b7b9-5a87-4683-b0fedf18c779",
+  "item": {
+    "name": "chain_command_block",
+    "aux": 0,
+    "type": "EnvironmentBlock",
+    "useType": "Use",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Use",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": null,
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 2,
+  "experiencePoints": {
+    "tappable": 2
+  },
+  "category": "Construction"
+}

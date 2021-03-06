@@ -1,0 +1,46 @@
+{
+  "id": "e1535d2d-1d8a-d8dd-ed69-bb656206057c",
+  "item": {
+    "name": "mob_spawner",
+    "aux": 0,
+    "type": "EnvironmentBlock",
+    "useType": "Use",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Use",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": null,
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 2
+  },
+  "category": "Nature"
+}

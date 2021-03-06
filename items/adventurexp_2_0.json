@@ -1,0 +1,70 @@
+{
+  "id": "15f4eedb-b14c-4aa0-8f54-4b3ecc8aa0d5",
+  "item": {
+    "name": "adventurexp_2",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": null,
+    "blockMetadata": {
+      "health": null,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": null
+    },
+    "boostMetadata": {
+      "name": "adventure_xp",
+      "attribute": "ItemExperiencePoints",
+      "type": "Potion",
+      "canBeDeactivated": false,
+      "canBeRemoved": true,
+      "activeDuration": null,
+      "additive": true,
+      "level": 2,
+      "effects": [
+        {
+          "type": "ItemExperiencePoints",
+          "duration": "00:15:00",
+          "value": 75,
+          "unit": "Percentage",
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [
+            "Encounter"
+          ],
+          "activation": "Timed",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "adventurexp"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "c409783a-8f32-fa9f-1026-54bbaaaedc38",
+  "item": {
+    "name": "tnt",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 1,
+    "blockMetadata": {
+      "health": 1,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 1
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "manufactured blocks",
+      "experience": 0,
+      "order": 46,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.creeper"
+      },
+      "defaultSound": "journal.select.creeper"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 30,
+  "experiencePoints": {
+    "tappable": 30
+  },
+  "category": "Items"
+}

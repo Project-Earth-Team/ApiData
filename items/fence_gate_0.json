@@ -1,0 +1,60 @@
+{
+  "id": "29d15352-7a57-2c12-1885-3a783649737e",
+  "item": {
+    "name": "fence_gate",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 15,
+    "blockMetadata": {
+      "health": 15,
+      "efficiencyCategory": "wood"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 15
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "manufactured blocks",
+      "experience": 0,
+      "order": 107,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.wood"
+      },
+      "defaultSound": "journal.select.wood"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": {
+    "heatPerSecond": 25,
+    "burnTime": 15
+  },
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Construction"
+}

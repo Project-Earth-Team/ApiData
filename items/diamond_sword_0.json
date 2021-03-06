@@ -1,0 +1,52 @@
+{
+  "id": "1eb4c044-716e-4a26-80f3-be2a7f30fe70",
+  "item": {
+    "name": "diamond_sword",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 14,
+    "blockDamage": 14,
+    "health": 3124,
+    "blockMetadata": {
+      "health": 3124,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "None",
+      "mobDamage": 14,
+      "blockDamage": 14,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "sword",
+      "maxHealth": 3124
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "diamond tools",
+      "experience": 0,
+      "order": 276,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

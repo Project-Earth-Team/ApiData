@@ -1,0 +1,50 @@
+{
+  "id": "18d68e3f-15ba-97cd-ec35-d93fe300bf22",
+  "item": {
+    "name": "dye",
+    "aux": 14,
+    "type": "Block",
+    "useType": "Interact",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Interact",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "dyes",
+      "experience": 0,
+      "order": 2365,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "Nature"
+}

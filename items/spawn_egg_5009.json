@@ -1,0 +1,58 @@
+{
+  "id": "c2e5a2eb-7888-e2cb-c641-951f93f5937b",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 5009,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 10,
+    "blockMetadata": {
+      "health": 10,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 10
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "wolf",
+      "experience": 0,
+      "order": 7392,
+      "behavior": "Hostile",
+      "biome": "Desert"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.skeleton.wolf"
+      },
+      "defaultSound": "journal.select.skeleton.wolf"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 110,
+  "experiencePoints": {
+    "tappable": 110,
+    "encounter": 12
+  },
+  "category": "Mobs"
+}

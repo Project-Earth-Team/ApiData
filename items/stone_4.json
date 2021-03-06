@@ -1,0 +1,52 @@
+{
+  "id": "713ddf6c-1163-3ac3-9ab3-315dc18fb9ca",
+  "item": {
+    "name": "stone",
+    "aux": 4,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 39,
+    "blockMetadata": {
+      "health": 39,
+      "efficiencyCategory": "rock_1"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 39
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "stone blocks",
+      "experience": 0,
+      "order": 2005,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Nature"
+}

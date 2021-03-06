@@ -1,0 +1,52 @@
+{
+  "id": "a5bb5618-c8e4-c08a-d052-3b33e9fcfffe",
+  "item": {
+    "name": "stained_glass_pane",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 8,
+    "blockMetadata": {
+      "health": 8,
+      "efficiencyCategory": "equal"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 8
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "crafted glass",
+      "experience": 0,
+      "order": 160,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Construction"
+}

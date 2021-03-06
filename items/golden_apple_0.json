@@ -1,0 +1,70 @@
+{
+  "id": "5383ea79-1e8e-7809-a612-67157b86830c",
+  "item": {
+    "name": "golden_apple",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Use",
+    "tapSpeed": 0,
+    "heal": 20,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Use",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 20,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": {
+      "name": "golden_apple",
+      "attribute": "Healing",
+      "type": "InventoryItem",
+      "canBeDeactivated": false,
+      "canBeRemoved": false,
+      "activeDuration": null,
+      "additive": true,
+      "level": null,
+      "effects": [
+        {
+          "type": "Health",
+          "duration": null,
+          "value": 20,
+          "unit": "Increment",
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Instant",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Nature"
+}

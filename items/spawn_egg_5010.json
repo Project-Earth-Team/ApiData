@@ -1,0 +1,53 @@
+{
+  "id": "88f06490-d30e-fd23-d515-261d9cde4879",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 5010,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 10,
+    "blockMetadata": {
+      "health": 10,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 10
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "cow",
+      "experience": 0,
+      "order": 7393,
+      "behavior": "Passive",
+      "biome": "FlowerForest"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 110,
+    "encounter": 10
+  },
+  "category": "Mobs"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "971df7ad-033d-f849-0600-8872bd8e4d2e",
+  "item": {
+    "name": "genoa_cake_item",
+    "aux": 0,
+    "type": "Item",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "food",
+      "experience": 0,
+      "order": 499,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Equipment"
+}

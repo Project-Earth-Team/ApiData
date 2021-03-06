@@ -1,0 +1,57 @@
+{
+  "id": "290f92ba-1541-8bd2-97dd-eb7f233031b8",
+  "item": {
+    "name": "flint_and_steel",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "InteractAndBuild",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 64,
+    "blockMetadata": {
+      "health": 64,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "InteractAndBuild",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 64
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "equipment",
+      "experience": 0,
+      "order": 259,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.ignite"
+      },
+      "defaultSound": "journal.select.ignite"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 40,
+  "experiencePoints": {
+    "tappable": 40
+  },
+  "category": "Equipment"
+}

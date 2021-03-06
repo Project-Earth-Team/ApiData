@@ -1,0 +1,81 @@
+{
+  "id": "04eafeb1-0eff-f85e-9ac9-ea6c69024035",
+  "item": {
+    "name": "potato",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "BuildAttack",
+    "tapSpeed": 0,
+    "heal": 1,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "BuildAttack",
+      "alternativeUseType": "Consume",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 1,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": {
+      "name": "potato",
+      "attribute": "Healing",
+      "type": "InventoryItem",
+      "canBeDeactivated": false,
+      "canBeRemoved": false,
+      "activeDuration": null,
+      "additive": true,
+      "level": null,
+      "effects": [
+        {
+          "type": "Health",
+          "duration": null,
+          "value": 1,
+          "unit": "Increment",
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Instant",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": {
+      "groupKey": "natural items",
+      "experience": 0,
+      "order": 392,
+      "behavior": "None",
+      "biome": "Overworld"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.food"
+      },
+      "defaultSound": "journal.select.food"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "encounter": 1
+  },
+  "category": "Nature"
+}

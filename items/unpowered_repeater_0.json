@@ -1,0 +1,46 @@
+{
+  "id": "2447dd67-4f0d-318b-67b0-d811800b37f4",
+  "item": {
+    "name": "unpowered_repeater",
+    "aux": 0,
+    "type": "EnvironmentBlock",
+    "useType": "Use",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 1,
+    "blockMetadata": {
+      "health": 1,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Use",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 1
+    },
+    "boostMetadata": null,
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 20,
+  "experiencePoints": {
+    "tappable": 20
+  },
+  "category": "Items"
+}

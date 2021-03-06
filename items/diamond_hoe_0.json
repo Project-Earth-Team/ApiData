@@ -1,0 +1,52 @@
+{
+  "id": "fb867518-05b7-497f-afbc-5b88a490469b",
+  "item": {
+    "name": "diamond_hoe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "InteractAndBuild",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 1,
+    "blockDamage": 10,
+    "health": 3124,
+    "blockMetadata": {
+      "health": 3124,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "InteractAndBuild",
+      "alternativeUseType": "Destroy",
+      "mobDamage": 1,
+      "blockDamage": 10,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "hoe",
+      "maxHealth": 3124
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "diamond tools",
+      "experience": 0,
+      "order": 293,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

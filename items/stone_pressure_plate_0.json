@@ -1,0 +1,52 @@
+{
+  "id": "0d78acb3-3dc9-bbc4-01ae-8b10c76867f9",
+  "item": {
+    "name": "stone_pressure_plate",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 39,
+    "blockMetadata": {
+      "health": 39,
+      "efficiencyCategory": "rock_1"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 39
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "mechanisms",
+      "experience": 0,
+      "order": 70,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Items"
+}

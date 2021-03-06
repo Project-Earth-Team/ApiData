@@ -1,0 +1,50 @@
+{
+  "id": "73956a98-f8ad-f9ab-5f5d-235357994127",
+  "item": {
+    "name": "lit_pumpkin",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": 15,
+    "blockMetadata": {
+      "health": 15,
+      "efficiencyCategory": "plants"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": "hand",
+      "maxHealth": 15
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "manufactured blocks",
+      "experience": 0,
+      "order": 91,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "Nature"
+}

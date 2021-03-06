@@ -1,0 +1,44 @@
+{
+  "id": "729ef929-ba69-d65c-e4a4-6d3f4dca100d",
+  "item": {
+    "name": "red_mushroom_block",
+    "aux": 14,
+    "type": "EnvironmentBlock",
+    "useType": "Use",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 15,
+    "blockMetadata": {
+      "health": 15,
+      "efficiencyCategory": "wood"
+    },
+    "itemMetadata": {
+      "useType": "Use",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 15
+    },
+    "boostMetadata": null,
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "Nature"
+}

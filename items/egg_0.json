@@ -1,0 +1,57 @@
+{
+  "id": "01eb6e48-c264-8670-e4fe-eb3d84b38083",
+  "item": {
+    "name": "egg",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Use",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Use",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "mob drops",
+      "experience": 0,
+      "order": 344,
+      "behavior": "None",
+      "biome": "Overworld"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.plop"
+      },
+      "defaultSound": "journal.select.plop"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Nature"
+}

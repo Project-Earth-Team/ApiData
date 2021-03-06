@@ -1,0 +1,53 @@
+{
+  "id": "b168485f-dd72-4c6a-af04-46858c42d8a1",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 33,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 20,
+    "blockMetadata": {
+      "health": 20,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 20
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "creeper",
+      "experience": 0,
+      "order": 2416,
+      "behavior": "Hostile",
+      "biome": "Overworld"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 60,
+  "experiencePoints": {
+    "tappable": 60,
+    "encounter": 20
+  },
+  "category": "Mobs"
+}

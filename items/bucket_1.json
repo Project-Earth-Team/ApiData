@@ -1,0 +1,81 @@
+{
+  "id": "b9d5b6c6-afd0-82b1-74fd-0e3754633c81",
+  "item": {
+    "name": "bucket",
+    "aux": 1,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": 0,
+    "heal": 6,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 6,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": {
+      "name": "milk",
+      "attribute": "Healing",
+      "type": "InventoryItem",
+      "canBeDeactivated": false,
+      "canBeRemoved": false,
+      "activeDuration": null,
+      "additive": true,
+      "level": null,
+      "effects": [
+        {
+          "type": "Health",
+          "duration": null,
+          "value": 6,
+          "unit": "Increment",
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Instant",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": {
+      "groupKey": "special buckets",
+      "experience": 0,
+      "order": 2326,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [
+    {
+      "id": "913156b3-c545-a8a1-8dec-0df0095af863",
+      "amount": 1
+    }
+  ],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Items"
+}

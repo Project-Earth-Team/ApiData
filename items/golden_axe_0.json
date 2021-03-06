@@ -1,0 +1,52 @@
+{
+  "id": "1d4db1f9-f350-44ad-b19c-87fd57ac4ae1",
+  "item": {
+    "name": "golden_axe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 4,
+    "blockDamage": 2,
+    "health": 132,
+    "blockMetadata": {
+      "health": 132,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "Build",
+      "mobDamage": 4,
+      "blockDamage": 2,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "axe",
+      "maxHealth": 132
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "golden tools",
+      "experience": 0,
+      "order": 286,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

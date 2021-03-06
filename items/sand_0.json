@@ -1,0 +1,57 @@
+{
+  "id": "5b81110c-1152-d4d4-a7c6-849fe93795d8",
+  "item": {
+    "name": "sand",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 5,
+    "blockMetadata": {
+      "health": 5,
+      "efficiencyCategory": "ground"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 5
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural blocks",
+      "experience": 0,
+      "order": 12,
+      "behavior": "None",
+      "biome": "Desert"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.sand"
+      },
+      "defaultSound": "journal.select.sand"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 3,
+  "experiencePoints": {
+    "tappable": 3
+  },
+  "category": "Nature"
+}

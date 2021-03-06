@@ -1,0 +1,50 @@
+{
+  "id": "fd754516-1997-8a07-cc0a-41a1667e7cc2",
+  "item": {
+    "name": "fermented_spider_eye",
+    "aux": 0,
+    "type": "Item",
+    "useType": "None",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": null,
+    "blockMetadata": {
+      "health": null,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "None",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": null
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "manufactured items",
+      "experience": 0,
+      "order": 376,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "Items"
+}

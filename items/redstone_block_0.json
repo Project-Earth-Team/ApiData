@@ -1,0 +1,52 @@
+{
+  "id": "42431c81-8c9e-87c5-6a3d-47344931df53",
+  "item": {
+    "name": "redstone_block",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 54,
+    "blockMetadata": {
+      "health": 54,
+      "efficiencyCategory": "metal_1"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 54
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "manufactured blocks",
+      "experience": 0,
+      "order": 152,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Items"
+}

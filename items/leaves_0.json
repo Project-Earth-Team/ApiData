@@ -1,0 +1,57 @@
+{
+  "id": "c2d1ad59-c34c-28c7-6c7f-656fa722a926",
+  "item": {
+    "name": "leaves",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 4,
+    "blockMetadata": {
+      "health": 4,
+      "efficiencyCategory": "leaves"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 4
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural blocks",
+      "experience": 0,
+      "order": 18,
+      "behavior": "None",
+      "biome": "Forest"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.plants"
+      },
+      "defaultSound": "journal.select.plants"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 4,
+  "experiencePoints": {
+    "tappable": 4
+  },
+  "category": "Nature"
+}

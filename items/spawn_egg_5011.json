@@ -1,0 +1,58 @@
+{
+  "id": "660c0f43-72f6-3735-1af3-38c987259ab6",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 5011,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 100,
+    "blockMetadata": {
+      "health": 100,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 100
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "golem",
+      "experience": 0,
+      "order": 7394,
+      "behavior": "Neutral",
+      "biome": "Desert"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.furnace.golem"
+      },
+      "defaultSound": "journal.select.furnace.golem"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 100,
+  "experiencePoints": {
+    "tappable": 100,
+    "encounter": 120
+  },
+  "category": "Mobs"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "613f036b-44d1-3107-8d47-de63bb796f8b",
+  "item": {
+    "name": "redstone_lamp",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 8,
+    "blockMetadata": {
+      "health": 8,
+      "efficiencyCategory": "equal"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 8
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "mechanisms",
+      "experience": 0,
+      "order": 123,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 20,
+  "experiencePoints": {
+    "tappable": 20
+  },
+  "category": "Items"
+}

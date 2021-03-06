@@ -1,0 +1,53 @@
+{
+  "id": "fc218694-57ed-3712-27f4-85ac79ba86ca",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 5025,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 10,
+    "blockMetadata": {
+      "health": 10,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 10
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "pig",
+      "experience": 0,
+      "order": 7408,
+      "behavior": "Passive",
+      "biome": "RoofedForest"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 55,
+    "encounter": 11
+  },
+  "category": "Mobs"
+}

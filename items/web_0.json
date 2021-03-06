@@ -1,0 +1,52 @@
+{
+  "id": "fdd548ff-b1ae-9a91-6c54-19a64358195b",
+  "item": {
+    "name": "web",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 114,
+    "blockMetadata": {
+      "health": 114,
+      "efficiencyCategory": "web"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 114
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural blocks",
+      "experience": 0,
+      "order": 30,
+      "behavior": "None",
+      "biome": "Overworld"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 20,
+  "experiencePoints": {
+    "tappable": 20
+  },
+  "category": "Nature"
+}

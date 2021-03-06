@@ -1,0 +1,57 @@
+{
+  "id": "250b2d5d-685e-c75e-e2f3-6b922ce318d0",
+  "item": {
+    "name": "golden_rail",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 5,
+    "blockMetadata": {
+      "health": 5,
+      "efficiencyCategory": "rail"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 5
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "mechanisms",
+      "experience": 0,
+      "order": 27,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.rail"
+      },
+      "defaultSound": "journal.select.rail"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 20,
+  "experiencePoints": {
+    "tappable": 20
+  },
+  "category": "Items"
+}

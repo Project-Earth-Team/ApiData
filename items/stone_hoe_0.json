@@ -1,0 +1,52 @@
+{
+  "id": "4116dc9b-47b4-4497-a3c7-7b69685b350c",
+  "item": {
+    "name": "stone_hoe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "InteractAndBuild",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 1,
+    "blockDamage": 4,
+    "health": 528,
+    "blockMetadata": {
+      "health": 528,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "InteractAndBuild",
+      "alternativeUseType": "Destroy",
+      "mobDamage": 1,
+      "blockDamage": 4,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "hoe",
+      "maxHealth": 528
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "stone tools",
+      "experience": 0,
+      "order": 291,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

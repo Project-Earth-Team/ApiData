@@ -1,0 +1,55 @@
+{
+  "id": "7f99f866-55e9-8c16-463d-33ec18ccf535",
+  "item": {
+    "name": "wooden_axe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 4,
+    "blockDamage": 2,
+    "health": 528,
+    "blockMetadata": {
+      "health": 528,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "Build",
+      "mobDamage": 4,
+      "blockDamage": 2,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "axe",
+      "maxHealth": 528
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "wooden tools",
+      "experience": 0,
+      "order": 271,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": {
+    "heatPerSecond": 50,
+    "burnTime": 30
+  },
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Equipment"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "d999e47f-b4f0-2ec8-2070-8de8d09b35c0",
+  "item": {
+    "name": "diorite_stairs",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 39,
+    "blockMetadata": {
+      "health": 39,
+      "efficiencyCategory": "rock_1"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 39
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "stone stairs",
+      "experience": 0,
+      "order": 429,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Construction"
+}

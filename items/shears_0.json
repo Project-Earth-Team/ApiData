@@ -1,0 +1,57 @@
+{
+  "id": "d08fb88b-e670-2a8d-3b83-8edb363e7ba4",
+  "item": {
+    "name": "shears",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "InteractAndBuild",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 1,
+    "blockDamage": 2,
+    "health": 64,
+    "blockMetadata": {
+      "health": 64,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "InteractAndBuild",
+      "alternativeUseType": "Destroy",
+      "mobDamage": 1,
+      "blockDamage": 2,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "sheers",
+      "maxHealth": 64
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "equipment",
+      "experience": 0,
+      "order": 359,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.shear"
+      },
+      "defaultSound": "journal.select.shear"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

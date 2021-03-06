@@ -1,0 +1,53 @@
+{
+  "id": "47ebf127-240d-bcb3-d5cb-efaabab4441b",
+  "item": {
+    "name": "rainbow_bed",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 2,
+    "blockMetadata": {
+      "health": 2,
+      "efficiencyCategory": "equal"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 2
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "beds",
+      "experience": 13,
+      "order": 2012,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 2,
+    "encounter": 2
+  },
+  "category": "Construction"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ea138f37-7220-a5c8-8e07-7ba7ae3694ec",
+  "item": {
+    "name": "wool",
+    "aux": 5,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 8,
+    "blockMetadata": {
+      "health": 8,
+      "efficiencyCategory": "wool"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 8
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "wool",
+      "experience": 0,
+      "order": 2040,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Construction"
+}

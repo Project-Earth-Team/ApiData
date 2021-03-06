@@ -1,0 +1,50 @@
+{
+  "id": "f2026026-5031-da4a-ace7-dd87d1e0dbb2",
+  "item": {
+    "name": "smooth_stone",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": 39,
+    "blockMetadata": {
+      "health": 39,
+      "efficiencyCategory": "rock_1"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": 39
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "smelted materials",
+      "experience": 0,
+      "order": 2377,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "Construction"
+}

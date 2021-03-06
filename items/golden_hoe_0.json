@@ -1,0 +1,52 @@
+{
+  "id": "4754dd83-4a0b-41d5-aaa5-8be886d93629",
+  "item": {
+    "name": "golden_hoe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "InteractAndBuild",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 1,
+    "blockDamage": 2,
+    "health": 132,
+    "blockMetadata": {
+      "health": 132,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "InteractAndBuild",
+      "alternativeUseType": "Destroy",
+      "mobDamage": 1,
+      "blockDamage": 2,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "hoe",
+      "maxHealth": 132
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "golden tools",
+      "experience": 0,
+      "order": 294,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

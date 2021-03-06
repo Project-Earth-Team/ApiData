@@ -1,0 +1,57 @@
+{
+  "id": "000c355c-3b9a-4313-bbe3-fbcaa7e97871",
+  "item": {
+    "name": "vine",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 4,
+    "blockMetadata": {
+      "health": 4,
+      "efficiencyCategory": "plants"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 4
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural blocks",
+      "experience": 0,
+      "order": 106,
+      "behavior": "None",
+      "biome": "Jungle"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.plants"
+      },
+      "defaultSound": "journal.select.plants"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 6,
+  "experiencePoints": {
+    "tappable": 6
+  },
+  "category": "Nature"
+}

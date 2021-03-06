@@ -1,0 +1,52 @@
+{
+  "id": "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+  "item": {
+    "name": "wheat_seeds",
+    "aux": 0,
+    "type": "Block",
+    "useType": "BuildAttack",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "BuildAttack",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural items",
+      "experience": 0,
+      "order": 295,
+      "behavior": "None",
+      "biome": "Plains"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 2,
+  "experiencePoints": {
+    "tappable": 2
+  },
+  "category": "Nature"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "576df436-a542-5692-458d-a60f69cc4a04",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 5031,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 4,
+    "blockMetadata": {
+      "health": 4,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 4
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "chicken",
+      "experience": 0,
+      "order": 7414,
+      "behavior": "Passive",
+      "biome": "Plains"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 30,
+  "experiencePoints": {
+    "tappable": 30,
+    "encounter": 5
+  },
+  "category": "Mobs"
+}

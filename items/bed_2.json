@@ -1,0 +1,52 @@
+{
+  "id": "9b9bfff3-af2e-3aff-235a-9f8bebd4b702",
+  "item": {
+    "name": "bed",
+    "aux": 2,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 2,
+    "blockMetadata": {
+      "health": 2,
+      "efficiencyCategory": "equal"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 2
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "beds",
+      "experience": 0,
+      "order": 2357,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Items"
+}

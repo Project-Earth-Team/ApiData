@@ -1,0 +1,58 @@
+{
+  "id": "310675c9-bdec-f765-dfbe-b1c0abf2cae3",
+  "item": {
+    "name": "dark_oak_button",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 15,
+    "blockMetadata": {
+      "health": 15,
+      "efficiencyCategory": "wood"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 15
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "mechanisms",
+      "experience": 0,
+      "order": 398,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.click"
+      },
+      "defaultSound": "journal.select.click"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": {
+    "heatPerSecond": 6,
+    "burnTime": 15
+  },
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "Items"
+}

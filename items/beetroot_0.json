@@ -1,0 +1,81 @@
+{
+  "id": "64db15cc-5620-3b5e-22b3-11ceab6a776b",
+  "item": {
+    "name": "beetroot",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": 0,
+    "heal": 2,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 2,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": {
+      "name": "beetroot",
+      "attribute": "Healing",
+      "type": "InventoryItem",
+      "canBeDeactivated": false,
+      "canBeRemoved": false,
+      "activeDuration": null,
+      "additive": true,
+      "level": null,
+      "effects": [
+        {
+          "type": "Health",
+          "duration": null,
+          "value": 2,
+          "unit": "Increment",
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Instant",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": {
+      "groupKey": "natural items",
+      "experience": 0,
+      "order": 457,
+      "behavior": "None",
+      "biome": "Overworld"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.food"
+      },
+      "defaultSound": "journal.select.food"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Nature"
+}

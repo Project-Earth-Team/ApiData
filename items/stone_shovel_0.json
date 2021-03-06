@@ -1,0 +1,52 @@
+{
+  "id": "a3435b17-e552-4390-8853-908b24dbba6c",
+  "item": {
+    "name": "stone_shovel",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 3,
+    "blockDamage": 4,
+    "health": 528,
+    "blockMetadata": {
+      "health": 528,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "Build",
+      "mobDamage": 3,
+      "blockDamage": 4,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "shovel",
+      "maxHealth": 528
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "stone tools",
+      "experience": 0,
+      "order": 273,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 20,
+  "experiencePoints": {
+    "tappable": 20
+  },
+  "category": "Equipment"
+}

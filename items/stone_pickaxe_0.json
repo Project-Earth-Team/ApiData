@@ -1,0 +1,52 @@
+{
+  "id": "73bbd3e1-7346-4eea-ab84-2baaca4fef53",
+  "item": {
+    "name": "stone_pickaxe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 3,
+    "blockDamage": 4,
+    "health": 1056,
+    "blockMetadata": {
+      "health": 1056,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "None",
+      "mobDamage": 3,
+      "blockDamage": 4,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "pickaxe_2",
+      "maxHealth": 1056
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "stone tools",
+      "experience": 0,
+      "order": 274,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 20,
+  "experiencePoints": {
+    "tappable": 20
+  },
+  "category": "Equipment"
+}

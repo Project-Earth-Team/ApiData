@@ -1,0 +1,76 @@
+{
+  "id": "a1aaafc1-3fe0-118d-15f7-1edec233ce78",
+  "item": {
+    "name": "baked_potato",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": 0,
+    "heal": 4,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 4,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": {
+      "name": "baked_potato",
+      "attribute": "Healing",
+      "type": "InventoryItem",
+      "canBeDeactivated": false,
+      "canBeRemoved": false,
+      "activeDuration": null,
+      "additive": true,
+      "level": null,
+      "effects": [
+        {
+          "type": "Health",
+          "duration": null,
+          "value": 4,
+          "unit": "Increment",
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Instant",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": {
+      "groupKey": "cooked food",
+      "experience": 0,
+      "order": 393,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

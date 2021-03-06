@@ -1,0 +1,52 @@
+{
+  "id": "19177297-160a-0b9d-4b51-5ff0d927e44e",
+  "item": {
+    "name": "iron_block",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 80,
+    "blockMetadata": {
+      "health": 80,
+      "efficiencyCategory": "metal_2"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 80
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "manufactured blocks",
+      "experience": 0,
+      "order": 42,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Construction"
+}

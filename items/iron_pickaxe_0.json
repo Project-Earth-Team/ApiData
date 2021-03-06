@@ -1,0 +1,52 @@
+{
+  "id": "6ced55c4-601a-43a7-a7db-cc5cc354d406",
+  "item": {
+    "name": "iron_pickaxe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 4,
+    "blockDamage": 8,
+    "health": 2008,
+    "blockMetadata": {
+      "health": 2008,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "None",
+      "mobDamage": 4,
+      "blockDamage": 8,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "pickaxe_3",
+      "maxHealth": 2008
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "iron tools",
+      "experience": 0,
+      "order": 257,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

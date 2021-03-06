@@ -1,0 +1,50 @@
+{
+  "id": "0b9f8e3b-3744-c616-92ed-6c1a931c6f03",
+  "item": {
+    "name": "cobblestone_wall",
+    "aux": 4,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 39,
+    "blockMetadata": {
+      "health": 39,
+      "efficiencyCategory": "rock_1"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 39
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "stone walls",
+      "experience": 0,
+      "order": 2143,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "Construction"
+}

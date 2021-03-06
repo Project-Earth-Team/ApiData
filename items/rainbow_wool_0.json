@@ -1,0 +1,59 @@
+{
+  "id": "ba80858b-9aa5-09db-10df-8341d4099487",
+  "item": {
+    "name": "rainbow_wool",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 8,
+    "blockMetadata": {
+      "health": 8,
+      "efficiencyCategory": "wool"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 8
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "mob drops",
+      "experience": 0,
+      "order": 1028,
+      "behavior": "None",
+      "biome": "Plains"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.wool"
+      },
+      "defaultSound": "journal.select.wool"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 2,
+    "encounter": 2,
+    "crafting": 1
+  },
+  "category": "Construction"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "75875fbb-9615-41da-9a04-5a1d290513b5",
+  "item": {
+    "name": "iron_axe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 6,
+    "blockDamage": 8,
+    "health": 1004,
+    "blockMetadata": {
+      "health": 1004,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "Build",
+      "mobDamage": 6,
+      "blockDamage": 8,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "axe",
+      "maxHealth": 1004
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "iron tools",
+      "experience": 0,
+      "order": 258,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

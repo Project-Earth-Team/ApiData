@@ -1,0 +1,9 @@
+{
+	"baseServerIP": "https://p.projectearth.dev",
+	"itemsFolderLocation": "./data/items/",
+	"efficiencyCategoriesFolderLocation": "./data/efficiency_categories/",
+	"journalCatalogFileLocation": "./data/journalCatalog.json",
+	"recipesFileLocation": "./data/recipes.json",
+	"settingsFileLocation": "./data/settings.json",
+	"productCatalogFileLocation": "./data/productCatalog.json"
+}

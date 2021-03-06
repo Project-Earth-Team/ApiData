@@ -1,0 +1,52 @@
+{
+  "id": "081a1c01-f504-40b4-b7d0-59d9f8c4d918",
+  "item": {
+    "name": "diamond_pickaxe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 5,
+    "blockDamage": 14,
+    "health": 6248,
+    "blockMetadata": {
+      "health": 6248,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "None",
+      "mobDamage": 5,
+      "blockDamage": 14,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "pickaxe_5",
+      "maxHealth": 6248
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "diamond tools",
+      "experience": 0,
+      "order": 278,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

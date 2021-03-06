@@ -1,0 +1,55 @@
+{
+  "id": "cd132152-9966-4050-904e-6ae6ffb885bb",
+  "item": {
+    "name": "wooden_sword",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 5,
+    "blockDamage": 2,
+    "health": 528,
+    "blockMetadata": {
+      "health": 528,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "None",
+      "mobDamage": 5,
+      "blockDamage": 2,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "sword",
+      "maxHealth": 528
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "wooden tools",
+      "experience": 0,
+      "order": 268,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": {
+    "heatPerSecond": 42,
+    "burnTime": 25
+  },
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Equipment"
+}

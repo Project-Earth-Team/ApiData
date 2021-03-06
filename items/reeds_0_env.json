@@ -1,0 +1,46 @@
+{
+	"id": "5ea17312-6f70-84d6-0d57-97038d622017",
+	"item": {
+	  "name": "reeds",
+	  "aux": 0,
+	  "type": "EnvironmentBlock",
+	  "useType": "Use",
+	  "tapSpeed": 0.0,
+	  "heal": 0.0,
+	  "nutrition": 0.0,
+	  "mobDamage": 0.0,
+	  "blockDamage": 0.0,
+	  "health": 1.0,
+	  "blockMetadata": {
+		"health": 1.0,
+		"efficiencyCategory": "plants"
+	  },
+	  "itemMetadata": {
+		"useType": "Use",
+		"alternativeUseType": "None",
+		"mobDamage": 0.0,
+		"blockDamage": 0.0,
+		"weakDamage": null,
+		"nutrition": 0.0,
+		"heal": 0.0,
+		"efficiencyType": null,
+		"maxHealth": 1.0
+	  },
+	  "boostMetadata": null,
+	  "journalMetadata": null,
+	  "audioMetadata": null,
+	  "clientProperties": {}
+	},
+	"rarity": "Common",
+	"fragmentsRequired": 1,
+	"stacks": true,
+	"burnRate": null,
+	"fuelReturnItems": [],
+	"consumeReturnItems": [],
+	"deprecated": false,
+	"experience": 10,
+	"experiencePoints": {
+	  "tappable": 10
+	},
+	"category": "Nature"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "29d26deb-3f14-410f-af59-a492a21406bb",
+  "item": {
+    "name": "maxplayerhealth_1",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": null,
+    "blockMetadata": {
+      "health": null,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": null
+    },
+    "boostMetadata": {
+      "name": "max_health",
+      "attribute": "MaximumPlayerHealth",
+      "type": "Potion",
+      "canBeDeactivated": false,
+      "canBeRemoved": true,
+      "activeDuration": null,
+      "additive": true,
+      "level": 1,
+      "effects": [
+        {
+          "type": "MaximumPlayerHealth",
+          "duration": "00:10:00",
+          "value": 10,
+          "unit": "Percentage",
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Timed",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "maxplayerhealth"
+}

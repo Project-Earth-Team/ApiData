@@ -1,0 +1,50 @@
+{
+  "id": "5967f131-4655-1b1a-68ea-ed7231000bb2",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 5065,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": 16,
+    "blockMetadata": {
+      "health": 16,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": 16
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "slime",
+      "experience": 0,
+      "order": 7448,
+      "behavior": "Hostile",
+      "biome": "Swampland"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "Mobs"
+}

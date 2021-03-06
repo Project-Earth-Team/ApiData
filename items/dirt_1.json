@@ -1,0 +1,57 @@
+{
+  "id": "360fd82d-9faa-7481-23f3-b335f00e8309",
+  "item": {
+    "name": "dirt",
+    "aux": 1,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 5,
+    "blockMetadata": {
+      "health": 5,
+      "efficiencyCategory": "ground"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 5
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural blocks",
+      "experience": 0,
+      "order": 2003,
+      "behavior": "None",
+      "biome": "Overworld"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.gravel"
+      },
+      "defaultSound": "journal.select.gravel"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Nature"
+}

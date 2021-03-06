@@ -1,0 +1,52 @@
+{
+  "id": "fb0cc5c4-f6a9-4f60-a37f-be521d1bcafc",
+  "item": {
+    "name": "iron_sword",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 8,
+    "blockDamage": 8,
+    "health": 1004,
+    "blockMetadata": {
+      "health": 1004,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "None",
+      "mobDamage": 8,
+      "blockDamage": 8,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "sword",
+      "maxHealth": 1004
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "iron tools",
+      "experience": 0,
+      "order": 252,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

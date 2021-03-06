@@ -1,0 +1,52 @@
+{
+  "id": "3f473106-d0c3-4f44-9db9-ace843e3a11a",
+  "item": {
+    "name": "diamond_shovel",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 5,
+    "blockDamage": 11,
+    "health": 3124,
+    "blockMetadata": {
+      "health": 3124,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "Build",
+      "mobDamage": 5,
+      "blockDamage": 11,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "shovel",
+      "maxHealth": 3124
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "diamond tools",
+      "experience": 0,
+      "order": 277,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

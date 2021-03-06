@@ -1,0 +1,68 @@
+{
+  "id": "58fb6d35-f304-4930-acf8-73e789312d9a",
+  "item": {
+    "name": "defense_2",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": null,
+    "blockMetadata": {
+      "health": null,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": null
+    },
+    "boostMetadata": {
+      "name": "defense",
+      "attribute": "Defense",
+      "type": "Potion",
+      "canBeDeactivated": false,
+      "canBeRemoved": true,
+      "activeDuration": null,
+      "additive": true,
+      "level": 2,
+      "effects": [
+        {
+          "type": "PlayerDefense",
+          "duration": "00:15:00",
+          "value": 50,
+          "unit": "Percentage",
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Timed",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "defense"
+}

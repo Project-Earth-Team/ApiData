@@ -1,0 +1,57 @@
+{
+  "id": "c290939b-a19f-c3c6-d310-b34fee81bd56",
+  "item": {
+    "name": "reeds",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 1,
+    "blockMetadata": {
+      "health": 1,
+      "efficiencyCategory": "plants"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 1
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural blocks",
+      "experience": 0,
+      "order": 338,
+      "behavior": "None",
+      "biome": "River"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.gadget"
+      },
+      "defaultSound": "journal.select.gadget"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Nature"
+}

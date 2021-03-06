@@ -1,0 +1,58 @@
+{
+  "id": "52692846-f1bd-a9ee-554a-913f9cb1dc27",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 5007,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 15,
+    "blockMetadata": {
+      "health": 15,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 15
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "llama",
+      "experience": 0,
+      "order": 7390,
+      "behavior": "Passive",
+      "biome": "IcePlains"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.jolly.llama"
+      },
+      "defaultSound": "journal.select.jolly.llama"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 60,
+  "experiencePoints": {
+    "tappable": 60,
+    "encounter": 18
+  },
+  "category": "Mobs"
+}

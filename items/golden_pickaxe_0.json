@@ -1,0 +1,52 @@
+{
+  "id": "0d494b76-58cd-4744-aa3e-affe0e4ebb87",
+  "item": {
+    "name": "golden_pickaxe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 2,
+    "blockDamage": 2,
+    "health": 132,
+    "blockMetadata": {
+      "health": 132,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "None",
+      "mobDamage": 2,
+      "blockDamage": 2,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "pickaxe_4",
+      "maxHealth": 132
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "golden tools",
+      "experience": 0,
+      "order": 285,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

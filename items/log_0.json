@@ -1,0 +1,60 @@
+{
+  "id": "a1bf49f9-1f1f-2a4d-5f7b-c0c5ba833068",
+  "item": {
+    "name": "log",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 15,
+    "blockMetadata": {
+      "health": 15,
+      "efficiencyCategory": "wood"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 15
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural blocks",
+      "experience": 0,
+      "order": 17,
+      "behavior": "None",
+      "biome": "Forest"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.wood"
+      },
+      "defaultSound": "journal.select.wood"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": {
+    "heatPerSecond": 55,
+    "burnTime": 30
+  },
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 2,
+  "experiencePoints": {
+    "tappable": 2
+  },
+  "category": "Nature"
+}

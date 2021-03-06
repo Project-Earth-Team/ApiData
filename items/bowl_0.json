@@ -1,0 +1,60 @@
+{
+  "id": "a2ff336f-5122-1736-c0d6-1556fe9d3e50",
+  "item": {
+    "name": "bowl",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Interact",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Interact",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "manufactured items",
+      "experience": 0,
+      "order": 281,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.gadget"
+      },
+      "defaultSound": "journal.select.gadget"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": {
+    "heatPerSecond": 90,
+    "burnTime": 1
+  },
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 11,
+  "experiencePoints": {
+    "tappable": 11
+  },
+  "category": "Items"
+}

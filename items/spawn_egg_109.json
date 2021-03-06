@@ -1,0 +1,53 @@
+{
+  "id": "ea21de22-c9fc-4983-ec42-bf6cb391a03e",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 109,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 3,
+    "blockMetadata": {
+      "health": 3,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 3
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "fish",
+      "experience": 0,
+      "order": 2492,
+      "behavior": "Passive",
+      "biome": "River"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 50,
+  "experiencePoints": {
+    "tappable": 50,
+    "encounter": 3
+  },
+  "category": "Mobs"
+}

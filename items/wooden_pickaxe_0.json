@@ -1,0 +1,55 @@
+{
+  "id": "730573d1-ba59-4fd4-89e0-85d4647466c2",
+  "item": {
+    "name": "wooden_pickaxe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 2,
+    "blockDamage": 2,
+    "health": 1056,
+    "blockMetadata": {
+      "health": 1056,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "None",
+      "mobDamage": 2,
+      "blockDamage": 2,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "pickaxe_1",
+      "maxHealth": 1056
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "wooden tools",
+      "experience": 0,
+      "order": 270,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": {
+    "heatPerSecond": 42,
+    "burnTime": 25
+  },
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 10,
+  "experiencePoints": {
+    "tappable": 10
+  },
+  "category": "Equipment"
+}

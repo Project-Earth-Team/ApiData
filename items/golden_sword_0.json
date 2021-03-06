@@ -1,0 +1,52 @@
+{
+  "id": "f274c113-0017-4eb7-bf29-fceb6373a2d3",
+  "item": {
+    "name": "golden_sword",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 5,
+    "blockDamage": 2,
+    "health": 132,
+    "blockMetadata": {
+      "health": 132,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "None",
+      "mobDamage": 5,
+      "blockDamage": 2,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "sword",
+      "maxHealth": 132
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "golden tools",
+      "experience": 0,
+      "order": 283,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ab316728-9922-430c-808b-ff3b6e3cd00a",
+  "item": {
+    "name": "diamond_axe",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Destroy",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 7,
+    "blockDamage": 13,
+    "health": 3124,
+    "blockMetadata": {
+      "health": 3124,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Destroy",
+      "alternativeUseType": "Build",
+      "mobDamage": 7,
+      "blockDamage": 13,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": "axe",
+      "maxHealth": 3124
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "diamond tools",
+      "experience": 0,
+      "order": 279,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

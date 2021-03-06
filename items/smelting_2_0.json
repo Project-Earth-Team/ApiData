@@ -1,0 +1,68 @@
+{
+  "id": "cc576bfd-8ad5-4ae2-a05b-75e9a1805593",
+  "item": {
+    "name": "smelting_2",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": null,
+    "blockMetadata": {
+      "health": null,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": null
+    },
+    "boostMetadata": {
+      "name": "smelting",
+      "attribute": "Smelting",
+      "type": "Potion",
+      "canBeDeactivated": false,
+      "canBeRemoved": true,
+      "activeDuration": null,
+      "additive": true,
+      "level": 2,
+      "effects": [
+        {
+          "type": "SmeltingFuelIntensity",
+          "duration": "00:15:00",
+          "value": 300,
+          "unit": "Percentage",
+          "targets": "UtilityBlock",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Timed",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "smelting"
+}

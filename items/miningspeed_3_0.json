@@ -1,0 +1,68 @@
+{
+  "id": "661accb9-386a-452d-9ada-669fc20a1ef9",
+  "item": {
+    "name": "miningspeed_3",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": null,
+    "blockMetadata": {
+      "health": null,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": null
+    },
+    "boostMetadata": {
+      "name": "mining_speed",
+      "attribute": "MiningSpeed",
+      "type": "Potion",
+      "canBeDeactivated": false,
+      "canBeRemoved": true,
+      "activeDuration": null,
+      "additive": true,
+      "level": 3,
+      "effects": [
+        {
+          "type": "BlockDamage",
+          "duration": "00:30:00",
+          "value": 100,
+          "unit": "Percentage",
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Timed",
+          "modifiesType": null
+        }
+      ],
+      "scenario": null,
+      "cooldown": null
+    },
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "miningspeed"
+}

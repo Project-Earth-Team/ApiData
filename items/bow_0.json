@@ -1,0 +1,57 @@
+{
+  "id": "84aaf925-dbe5-f122-9139-08098789e4f8",
+  "item": {
+    "name": "bow",
+    "aux": 0,
+    "type": "Tool",
+    "useType": "Use",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 384,
+    "blockMetadata": {
+      "health": 384,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Use",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 384
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "equipment",
+      "experience": 0,
+      "order": 261,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.bow"
+      },
+      "defaultSound": "journal.select.bow"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Uncommon",
+  "fragmentsRequired": 1,
+  "stacks": false,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

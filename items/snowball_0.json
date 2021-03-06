@@ -1,0 +1,57 @@
+{
+  "id": "4aacd62f-ebb0-adb9-82ef-a9606efd1b6e",
+  "item": {
+    "name": "snowball",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Use",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 0,
+    "blockMetadata": {
+      "health": 0,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Use",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 0
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural items",
+      "experience": 0,
+      "order": 332,
+      "behavior": "None",
+      "biome": "IcePlains"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.snow"
+      },
+      "defaultSound": "journal.select.snow"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 1
+  },
+  "category": "Equipment"
+}

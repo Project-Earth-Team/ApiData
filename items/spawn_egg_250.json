@@ -1,0 +1,53 @@
+{
+  "id": "038c8034-1d98-96ca-8278-bc69f592549f",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 250,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 20,
+    "blockMetadata": {
+      "health": 20,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 20
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "mob of me",
+      "experience": 0,
+      "order": 2633,
+      "behavior": "Neutral",
+      "biome": "Overworld"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 150,
+    "encounter": 24
+  },
+  "category": "Mobs"
+}

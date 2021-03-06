@@ -1,0 +1,53 @@
+{
+  "id": "ff723264-b108-9d24-f445-73a3322fc72e",
+  "item": {
+    "name": "spawn_egg",
+    "aux": 28,
+    "type": "Mob",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 30,
+    "blockMetadata": {
+      "health": 30,
+      "efficiencyCategory": "instant"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 30
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "polar bear",
+      "experience": 0,
+      "order": 2411,
+      "behavior": "Neutral",
+      "biome": "IcePlains"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": 1,
+  "experiencePoints": {
+    "tappable": 1,
+    "encounter": 30
+  },
+  "category": "Mobs"
+}

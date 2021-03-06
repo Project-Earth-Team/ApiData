@@ -1,0 +1,57 @@
+{
+  "id": "7e824450-291f-9a61-5596-6b0b3b938162",
+  "item": {
+    "name": "mycelium",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 5,
+    "blockMetadata": {
+      "health": 5,
+      "efficiencyCategory": "ground"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 5
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "natural blocks",
+      "experience": 0,
+      "order": 110,
+      "behavior": "None",
+      "biome": "MushroomIsland"
+    },
+    "audioMetadata": {
+      "sounds": {
+        "journal": "journal.select.gravel"
+      },
+      "defaultSound": "journal.select.gravel"
+    },
+    "clientProperties": {}
+  },
+  "rarity": "Rare",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 3
+  },
+  "category": "Nature"
+}

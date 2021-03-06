@@ -1,0 +1,68 @@
+{
+  "id": "bef8b1c2-54c6-4f69-a6c9-f1aa1ee18119",
+  "item": {
+    "name": "hoarding_1",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": null,
+    "blockMetadata": {
+      "health": null,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": null
+    },
+    "boostMetadata": {
+      "name": "hotbar_retention",
+      "attribute": "Retention",
+      "type": "Potion",
+      "canBeDeactivated": false,
+      "canBeRemoved": true,
+      "activeDuration": "00:10:00",
+      "additive": true,
+      "level": 1,
+      "effects": [
+        {
+          "type": "RetainHotbar",
+          "duration": null,
+          "value": null,
+          "unit": null,
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Triggered",
+          "modifiesType": null
+        }
+      ],
+      "scenario": "Death",
+      "cooldown": null
+    },
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "hoarding"
+}

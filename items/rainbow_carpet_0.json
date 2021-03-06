@@ -1,0 +1,53 @@
+{
+  "id": "d6936841-d8d4-dc29-23cc-4c045371778c",
+  "item": {
+    "name": "rainbow_carpet",
+    "aux": 0,
+    "type": "Block",
+    "useType": "Build",
+    "tapSpeed": 0,
+    "heal": 0,
+    "nutrition": 0,
+    "mobDamage": 0,
+    "blockDamage": 0,
+    "health": 2,
+    "blockMetadata": {
+      "health": 2,
+      "efficiencyCategory": "other"
+    },
+    "itemMetadata": {
+      "useType": "Build",
+      "alternativeUseType": "None",
+      "mobDamage": 0,
+      "blockDamage": 0,
+      "weakDamage": null,
+      "nutrition": 0,
+      "heal": 0,
+      "efficiencyType": null,
+      "maxHealth": 2
+    },
+    "boostMetadata": null,
+    "journalMetadata": {
+      "groupKey": "carpets",
+      "experience": 0,
+      "order": 1029,
+      "behavior": "None",
+      "biome": "None"
+    },
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Epic",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {
+    "tappable": 2,
+    "encounter": 2
+  },
+  "category": "Construction"
+}

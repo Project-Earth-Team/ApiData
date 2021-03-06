@@ -1,0 +1,90 @@
+{
+  "id": "97039510-767c-43a9-8a15-b1034d8011d4",
+  "item": {
+    "name": "retention_3",
+    "aux": 0,
+    "type": "Boost",
+    "useType": "Consume",
+    "tapSpeed": null,
+    "heal": null,
+    "nutrition": null,
+    "mobDamage": null,
+    "blockDamage": null,
+    "health": null,
+    "blockMetadata": {
+      "health": null,
+      "efficiencyCategory": null
+    },
+    "itemMetadata": {
+      "useType": "Consume",
+      "alternativeUseType": "None",
+      "mobDamage": null,
+      "blockDamage": null,
+      "weakDamage": null,
+      "nutrition": null,
+      "heal": null,
+      "efficiencyType": null,
+      "maxHealth": null
+    },
+    "boostMetadata": {
+      "name": "backpack_retention",
+      "attribute": "Retention",
+      "type": "Potion",
+      "canBeDeactivated": false,
+      "canBeRemoved": true,
+      "activeDuration": "00:30:00",
+      "additive": true,
+      "level": 3,
+      "effects": [
+        {
+          "type": "RetainBackpack",
+          "duration": null,
+          "value": null,
+          "unit": null,
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Triggered",
+          "modifiesType": null
+        },
+        {
+          "type": "RetainExperiencePoints",
+          "duration": null,
+          "value": null,
+          "unit": null,
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Triggered",
+          "modifiesType": null
+        },
+        {
+          "type": "RetainHotbar",
+          "duration": null,
+          "value": null,
+          "unit": null,
+          "targets": "Player",
+          "items": [],
+          "itemScenarios": [],
+          "activation": "Triggered",
+          "modifiesType": null
+        }
+      ],
+      "scenario": "Death",
+      "cooldown": null
+    },
+    "journalMetadata": null,
+    "audioMetadata": null,
+    "clientProperties": {}
+  },
+  "rarity": "Common",
+  "fragmentsRequired": 1,
+  "stacks": true,
+  "burnRate": null,
+  "fuelReturnItems": [],
+  "consumeReturnItems": [],
+  "deprecated": false,
+  "experience": null,
+  "experiencePoints": {},
+  "category": "retention"
+}

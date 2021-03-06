@@ -1,0 +1,11 @@
+# Players
+players/*
+
+# Tiles
+tiles/*
+
+# Resource packs
+resourcepacks/*
+
+# gitkeep file
+!**/.gitkeep
