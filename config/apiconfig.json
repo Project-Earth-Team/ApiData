@@ -5,5 +5,6 @@
 	"journalCatalogFileLocation": "./data/journalCatalog.json",
 	"recipesFileLocation": "./data/recipes.json",
 	"settingsFileLocation": "./data/settings.json",
+	"seasonChallengesFileLocation": "./data/seasonChallenges.json",
 	"productCatalogFileLocation": "./data/productCatalog.json"
 }
