@@ -6,5 +6,8 @@
 	"recipesFileLocation": "./data/recipes.json",
 	"settingsFileLocation": "./data/settings.json",
 	"seasonChallengesFileLocation": "./data/seasonChallenges.json",
-	"productCatalogFileLocation": "./data/productCatalog.json"
+	"productCatalogFileLocation": "./data/productCatalog.json",
+	"mixTappableSpawnAmount": 5,
+	"maxTappableSpawnAmount": 20,
+	"tappableSpawnRadius": 0.001 
 }
